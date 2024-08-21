@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "name": "Muhammad Faraz",
+      "username": "mFaraz2001",
+      "email": "faraz786@gmail.com",
+      "phone": "0309-1231718",
+      "id": 6
+    },
+    {
+      "name": "John Smith",
+      "username": "john_smith",
+      "email": "john@gmail.com",
+      "phone": "11-578-5326-10",
+      "id": 7
+    },
+    {
+      "name": "Tony Stark",
+      "username": "tony_stark",
+      "email": "tony12@gmail.com",
+      "phone": "91-457-123-5400",
+      "id": 8
+    },
+    {
+      "name": "hashmat",
+      "username": "h-192",
+      "email": "hashmat@gmail.com",
+      "phone": "12212121",
+      "id": 9
+    },
+    {
+      "name": "Bruce Banner",
+      "username": "burce_12",
+      "email": "Bruce@gmail.com",
+      "phone": "75-850-960-026",
+      "id": 10
+    },
+    {
+      "name": "John Cena",
+      "username": "john_cena",
+      "email": "johnCena@gmail.com",
+      "phone": "92-0958-5123-51",
+      "id": 11
+    },
+    {
+      "name": "haider",
+      "username": "Irfan",
+      "email": "hiader@gmail.com",
+      "phone": "0312345679",
+      "id": 15
+    },
+    {
+      "name": "farAz",
+      "username": "hamza123",
+      "email": "faraz@gmail.com",
+      "phone": "03123456789",
+      "id": 18
+    },
+    {
+      "name": "umar",
+      "username": "umar123",
+      "email": "umar123@gmail.com",
+      "phone": "03123456789",
+      "id": 19
+    },
+    {
+      "name": "shehroze123",
+      "username": "shehroze123",
+      "email": "shehroze123@gmail.com",
+      "phone": "0312456788",
+      "id": 20
+    },
+    {
+      "name": "m-faraz",
+      "username": "m-faraz123",
+      "email": "m-faraz123@gmail.com",
+      "phone": "dadasfafafa",
+      "id": 21
+    }
+  ]
+}
